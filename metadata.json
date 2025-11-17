@@ -1,0 +1,5 @@
+{
+  "name": "SGPA Calculator & Predictor",
+  "description": "A modern web application to calculate or predict your Semester Grade Point Average (SGPA) based on subject credits, component weightages, and marks. This interactive tool provides a clear breakdown of your academic performance and helps you strategize for desired results.",
+  "requestFramePermissions": []
+}
